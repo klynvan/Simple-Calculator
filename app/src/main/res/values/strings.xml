@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="enterA">Enter A</string>
+    <string name="enterB">Enter B</string>
+    <string name="sum">= N/A</string>
+    <string name="buttonCalc">Calculate</string>
+    <string name="buttonReset">Reset</string>
+</resources>
